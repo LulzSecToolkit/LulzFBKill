@@ -6,9 +6,12 @@ Description:
 LulzSec FB Cracker ToolKit Bruter V0.1 tool written in perl to perform a dictionary-based attack on a specific Facebook user
 through HTTPS.
  This tool coded Only For The Lulz ;)
+ 
  Usage:
- perl LulzFBKill.pl email/id wordlist
- login could be either a users email address or profile name / Phone number / ID
+ perl LulzFBKill.pl email/id wordlist ;
+ 
+ login could be either a users email address or profile name / Phone number / ID.
+ 
 
  #Module Requirements:
  # apt clean
@@ -29,5 +32,5 @@ through HTTPS.
  [-] password123 -> Failed >> Check Your password List and Try agine
  
 
- [+] Luulz!! Pass Cracked => Pass is ***********
+ [+] Luulz!! Pass Cracked => Pass is Lu!z53C
 
