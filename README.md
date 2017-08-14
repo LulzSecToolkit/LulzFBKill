@@ -25,14 +25,22 @@ through HTTPS.
 #perl LulzFBKill.pl {fb-id}or{email@facebook.com} wordlist Or #perl LulzFBKill.pl +39783987890 wordlist
 
  [+] Lulz Start Cracking THF-Targe using ID or EMail or Phone numnber ...
+ 
 
  [-] test -> Failed >> Check Your password List and Try agine
+ 
  [-] test123 -> Failed >> Check Your password List and Try agine
+ 
  [-] testtest -> Failed >> Check Your password List and Try agine
+ 
  [-] testest123 -> Failed >> Check Your password List and Try agine
+ 
  [-] qwerty -> Failed >> Check Your password List and Try agine
+ 
  [-] azerty -> Failed >> Check Your password List and Try agine
+ 
  [-] password -> Failed >> Check Your password List and Try agine
+ 
  [-] password123 -> Failed >> Check Your password List and Try agine
  
 
